@@ -1,0 +1,23 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+/obj/Release/net7.0
+/obj/Debug/net7.0/ECommerceApp.MvcApplicationPartsAssemblyInfo.cs
+/obj/Debug/net7.0/ECommerceApp.pdb
+/obj/Debug/net7.0/ECommerceApp.dll
+/bin/Debug/net7.0/ECommerceApp.pdb
+/bin/Debug/net7.0/ECommerceApp.dll
+/.vs/ECommerceApp/DesignTimeBuild/.dtbcache.v2
+/.vs/ECommerceApp/v17/.suo
+/.vs/ECommerceApp/v17/.wsuo
+/.vs/ProjectEvaluation/ecommerceapp.metadata.v7.bin
+/.vs/ProjectEvaluation/ecommerceapp.projects.v7.bin
+/.vs/ECommerceApp/FileContentIndex/597b2bec-5b00-4451-8265-807332c04cb5.vsidx
+/.vs/ECommerceApp/FileContentIndex/55be5dc3-c12c-4611-bfc0-54703e25c858.vsidx
+/.vs/ECommerceApp/FileContentIndex/1f304d1b-5af0-495c-b80a-186399b438f9.vsidx
+/.vs/ECommerceApp/FileContentIndex/173f3522-1030-4264-87f6-cf2f8d7c87c9.vsidx
+/.vs/ECommerceApp/FileContentIndex/05ffda83-4d50-4052-939e-19ce40b9dc04.vsidx
+/.vs/ECommerceApp/FileContentIndex/5d7505f1-3c10-4d27-991d-4a68f7b977d2.vsidx
+/.vs/ECommerceApp/FileContentIndex/92aba208-c4d5-42d3-a1db-9ddc245a3d8c.vsidx
+/.vs/ECommerceApp/FileContentIndex/a2c329d2-e352-42ef-9e78-228fa96a7139.vsidx
+/.vs/ECommerceApp/FileContentIndex
